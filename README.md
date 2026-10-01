@@ -9,7 +9,7 @@
 
 ## Profiles
 
-**HackerRank:** YOUR HACKERRANK PROFILE URL
+
 
 **GitHub:** jyothikaangadi/HackerRank-3rdSem-Algorithm-Portfolio
 
